@@ -73,7 +73,7 @@
     </main>
     <footer>
         <div class="wrapper">
-            <p>Super Rollercoaster, made by Lucan, Kelvin, Lucas en Selina&copy;</p>
+            <p>&copy;Super Rollercoaster by Lucan, Kelvin, Lucas en Selina</p>
         </div>
     </footer>
 </body>
