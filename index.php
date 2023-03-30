@@ -26,6 +26,16 @@
                         <p>Aangemaakt door: <?php ?></p>
                         <p>Informatie: <?php ?></p> 
                     </div>
+                    <div class="taak">
+                        <p>Taak: <?php ?></p>
+                        <p>Aangemaakt door: <?php ?></p>
+                        <p>Informatie: <?php ?></p> 
+                    </div>
+                    <div class="taak">
+                        <p>Taak: <?php ?></p>
+                        <p>Aangemaakt door: <?php ?></p>
+                        <p>Informatie: <?php ?></p> 
+                    </div>
                     <?php// endforeach; ?>
                 </div>
                 <div class="box">
