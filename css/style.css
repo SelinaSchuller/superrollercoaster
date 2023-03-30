@@ -28,7 +28,9 @@ header{
 }
 
 .box{
-  border: black solid 2px;  
+    width: 230px;
+    border: black solid 1px; 
+    background-color: lightgray; 
 }
 
 h3{
@@ -37,8 +39,19 @@ h3{
 }
 
 .taak{
-    background-color: lightgray;
-    padding: 0px 55px;
+    margin: 10px 10px;
+    padding: 10px 5px;
+    background-color: aqua;
+    border: blue solid 2px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.taak:hover{
+    background-color: rgb(37, 122, 122);
+    color: white;
 }
 
 footer{
